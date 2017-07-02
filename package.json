@@ -1,0 +1,19 @@
+{
+  "name": "meepo-batch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rot-13/meepo-batch.git"
+  },
+  "author": "Elad Shaham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rot-13/meepo-batch/issues"
+  },
+  "homepage": "https://github.com/rot-13/meepo-batch#readme"
+}
