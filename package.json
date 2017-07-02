@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rot-13/meepo-batch#readme",
   "dependencies": {
-    "arpscan": "git://github.com/ShayDavidson/arpscan#9910bd8dc7f53c44dca389b8d4d9b1a4b1608bcb"
+    "arpscan": "git://github.com/ShayDavidson/arpscan#9910bd8dc7f53c44dca389b8d4d9b1a4b1608bcb",
+    "request": "^2.81.0"
   }
 }
